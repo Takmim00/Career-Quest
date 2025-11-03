@@ -55,7 +55,7 @@ function Navbar() {
   };
 
   return (
-    <div className="flex items-center justify-between container mx-auto py-4 poppins relative z-60">
+    <div className="flex items-center justify-between  mx-auto py-4 poppins relative z-60 w-11/12">
       {/* Logo */}
       <div>
         <img src={image} className="h-10" alt="Logo" />
